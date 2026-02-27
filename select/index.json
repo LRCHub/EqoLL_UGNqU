@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "神の領域",
+  "base_artist": "KREVA",
+  "createdAt": "2026-02-27T16:05:48.180056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "神の領域",
+      "artist": "KREVA",
+      "has_synced": true,
+      "path": "select/01_神の領域_KREVA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "神の領域 - Kami no Region",
+      "artist": "Shichi Nin no Charisma",
+      "has_synced": true,
+      "path": "select/02_神の領域_-_Kami_no_Region_Shichi_Nin_no_Charisma.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神の領域",
+      "artist": "KREVA",
+      "has_synced": false,
+      "path": "select/pl_01_神の領域_KREVA.txt"
+    }
+  ]
+}
